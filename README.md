@@ -20,5 +20,7 @@ Extra Features: Touchscreen, I2C touchpad, Goodix Fingerprint scanner, Thunderbo
 Things that don't work:
 
 The fingerprint sensor
+
 Thunderbolt hot-plug
+
 Touchscreen(As expected, but it just acts as a massive touchpad)
